@@ -1,5 +1,5 @@
 
-const imageBase = "/assets/generated_images";
+const imageBase = "/attached_assets/generated_images";
 
 export const products = [
   {
